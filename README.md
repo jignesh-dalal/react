@@ -1,3 +1,5 @@
+![build](https://github.com/jignesh-dalal/react/workflows/build/badge.svg?branch=master&event=push)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
