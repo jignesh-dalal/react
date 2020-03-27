@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Checkbox List</h1>
+        <h1>Checkbox List using Render Props</h1>
         <Usage />
       </header>
     </div>
